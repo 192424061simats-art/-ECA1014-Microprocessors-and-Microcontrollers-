@@ -1,0 +1,34 @@
+8000
+{\rtf1\ansi\ansicpg1252\deff0\deflang2057{\fonttbl{\f0\fnil\fcharset0 Courier New;}}
+\viewkind4\uc1\pard\li195\f0\fs20 LXI H 2050h
+\par MOV A M
+\par LXI H 2051h
+\par SUB M
+\par LXI H 2052h
+\par MOV M A
+\par HLT
+\par 
+\par }
+<End Codes>
+20
+1| 2050| 25
+2| 2051| 10
+3| 2052| 15
+<End UserData>
+20
+1| 8000| 21
+2| 8001| 50
+3| 8002| 20
+4| 8003| 7E
+5| 8004| 21
+6| 8005| 51
+7| 8006| 20
+8| 8007| 96
+9| 8008| 21
+10| 8009| 52
+11| 800A| 20
+12| 800B| 77
+13| 800C| 76
+<End HexData>
+
+<End Comment>
